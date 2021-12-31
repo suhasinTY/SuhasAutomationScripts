@@ -21,7 +21,6 @@ public class Assignment2Q1 {
 		Set<String> Newtabs = driver.getWindowHandles();
 		
 		driver.switchTo().window(null);
-
 	}
 
 }
